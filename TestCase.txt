@@ -1,0 +1,112 @@
+1.Lift
+
+1)Check dimensions of the lift.
+2)Check the type of door of the lift is as per the specification.
+3)Check the type of metal used in the lift interior and exterior.
+4)Check the capacity of the lift.
+5)Check the buttons in the lift to close and open the door.
+6)Check that lift moves to the particular floor as the button of the floor is clicked.
+7)Chek that lift stops when up/down buttons at particular floor are pressed.
+8)Check if there is an emergency button to contact officials in case of any problem.
+9)Check the time duration for which door remain open by default.
+10)Check lighting in the lift.
+11)Check that in case of power loss, there should be a backup mechanism to safely get into a floor or a backup power supply.
+12)Check that in case multiple floor number button is clicked, lift should stop at each floor.
+13)Check the type of door of the lift is as per the specification.
+14)Check the capacity of lift.
+
+
+2.Fan
+
+1)Check the type of fan.
+2)Check the number of blades on the fan.
+3)Check the on/off functionality of fan.
+4)Check the voltage/power requirement of the fan.
+5)Check the maximum speed of fan.
+6)Check the minimum speed of the fan.
+7)Check that the speed of fan can be regulated using regulator.
+8)Check the length of the fan  blades.
+9)Check that the weight of the fan.
+10)Check that the color of the fan.
+11)Check the fan’s condition when continuously switched on for very large duration
+12)Check if there is any lifetime of fan’s internal parts or the body
+13)Check if the blades of the fan can be bend or not.
+
+
+3.AC
+
+1)Check the time taken by the AC from the plug-in and press the button.
+2)Check the time taken by an AC to start cooling.
+3)Check is there any Water Leakage When Ac gets Started.
+4)Check a user can off or on the AC by using the remote.
+5)Check is the Red LED light is displaying or not when the AC is in the state.
+6)Check the Red light is blinking or not when Plugin.
+7)Check the various functions of AC are working or not.
+8)Check is the remote function is working properly or not by pressing the buttons.
+9)Check the AC cooling of the temperature.
+10)Check whether AC cooling is aired in every direction by moving the grill up, down, right & left.
+11)Check the time taken by AC for Cooling according to the temperature.
+
+
+4)Bottle
+
+1)Check that the dimensions of the bottle.
+2)Check that the color of the bottle.
+3)Chek the material used in the bottle.
+4)Check the weight of the bottle.
+5)Check if the bottle is with a sipper or without a sipper.
+6)Measure the volume of water that can be stored in bottle.
+7)Check that bottle doesn’t leak when  placed upside down.
+8)Check the bottle’s condition with liquid of different temperatures.
+9)Check bottle’s condition with different liquids – water, tea, etc.
+10)Check the insulation of bottle – time for liquid to achieves room temperature.
+11)Check if the expiry date is clearly mentioned or not.
+12)Check the maximum temperature of the liquid allowed.
+13)Check the minimum temperature of the liquid allowed.
+
+5)Chair
+
+1)Check the material used for making the chair is as per the requirement.
+2)Check is the dimension of the chair.
+3)Check is the dimension of the weight.
+4)Check is the dimension of the height.
+5)Check the number of legs of a chair.
+6)Check the chair back rest option.
+7)Check the all leg of chair on a plane surface are equal or not.
+8)Check is the chair is compatible for taking rest.
+9)Check a human is able to sit comfortably or not on chair.
+10)Check is the chair have an adjustment functionality or not.
+11)Check the legs of chair is having any wheel or not.
+12)Check is the chair is good enough to handle some specified amount of load.
+13)Check what is the maximum amount of load the chair is handling.
+14)Check the color of chair.
+15)Check the type of the chair, example: Office chair, Dining room chair, Dentist chair,Swing chair, Public benches etc.
+16)Check the balance of the chair.
+17)Check the balance of the chair with three legs.
+18)Check how Chair is working at different climate environmental conditions.
+
+6)Remote
+
+1)Check that all the buttons are present- 0 to 9, volume, channel up-down and other audio-video.
+2)Check the functionality of power ON-OFF button.
+3)Check that user can navigate to different single digit and multi digit channels.
+4)Check that user can increase or decrease the volume.
+5)Check that user can navigate up and down the channel using channel up and down buttons
+6)Check that functioning of audio-video and other buttons.
+7)Check the maximum distance from the Television set upto which the remote works smoothly.
+8)Check the arc/different directions the remote control works correctly.
+9)Check the battery requirement of the remote control.
+10)Check the material of the remote’s body and its button.
+11)Check the weight of the remote control.
+12)Check the dimensions of remote control.
+13)Check that there should be contrast between button’s color and remote’s outer body color.
+14)Check the remote’s functioning on pressing more than one button simultaneously.
+15)Check that the font – style and size of the numbers and other information should be readable.
+16)Check that on battery discharge, the remote should work normally on inserting new batteries
+17)Check the pressure required to press the button.
+18)Check that any operation performed on the remote control while the TV is switched off or switched on.
+19)Check if the remote control is water proof or not, if its water proof, check if it works normally after immersing it in water.
+
+
+
+
